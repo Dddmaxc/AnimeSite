@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/AnimeSite/static/css/main.964fdded.css",
-    "main.js": "/AnimeSite/static/js/main.cde360d1.js",
+    "main.css": "/AnimeSite/static/css/main.118ea883.css",
+    "main.js": "/AnimeSite/static/js/main.af6fcd63.js",
     "static/js/453.ed3810f9.chunk.js": "/AnimeSite/static/js/453.ed3810f9.chunk.js",
+    "static/media/videophone.mp4": "/AnimeSite/static/media/videophone.273966ac28e2d15b1801.mp4",
+    "static/media/logIn.png": "/AnimeSite/static/media/logIn.bbd33db2aac937eb8262.png",
+    "static/media/search.png": "/AnimeSite/static/media/search.e53209d68b41a4a5a0e9.png",
+    "static/media/settings.png": "/AnimeSite/static/media/settings.64053a77547db23956ea.png",
     "index.html": "/AnimeSite/index.html",
-    "main.964fdded.css.map": "/AnimeSite/static/css/main.964fdded.css.map",
-    "main.cde360d1.js.map": "/AnimeSite/static/js/main.cde360d1.js.map",
+    "main.118ea883.css.map": "/AnimeSite/static/css/main.118ea883.css.map",
+    "main.af6fcd63.js.map": "/AnimeSite/static/js/main.af6fcd63.js.map",
     "453.ed3810f9.chunk.js.map": "/AnimeSite/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.964fdded.css",
-    "static/js/main.cde360d1.js"
+    "static/css/main.118ea883.css",
+    "static/js/main.af6fcd63.js"
   ]
 }
