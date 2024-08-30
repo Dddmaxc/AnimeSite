@@ -1,19 +1,29 @@
 {
   "files": {
-    "main.css": "/AnimeSite/static/css/main.118ea883.css",
-    "main.js": "/AnimeSite/static/js/main.af6fcd63.js",
+    "main.css": "/AnimeSite/static/css/main.d434faef.css",
+    "main.js": "/AnimeSite/static/js/main.dd4e6a9e.js",
+    "static/js/633.0d54e444.chunk.js": "/AnimeSite/static/js/633.0d54e444.chunk.js",
     "static/js/453.ed3810f9.chunk.js": "/AnimeSite/static/js/453.ed3810f9.chunk.js",
-    "static/media/videophone.mp4": "/AnimeSite/static/media/videophone.273966ac28e2d15b1801.mp4",
+    "static/media/videophone.mp4": "/AnimeSite/static/media/videophone.6b42d1f4431b032ee7bf.mp4",
+    "static/media/Fullmetal_Alchemist.jpg": "/AnimeSite/static/media/Fullmetal_Alchemist.d11ea13cbd9d3078eb76.jpg",
+    "static/media/Attack_on_Titan.jpg": "/AnimeSite/static/media/Attack_on_Titan.b4d7bc4534d7a04fe574.jpg",
+    "static/media/Cyberpunk.jpg": "/AnimeSite/static/media/Cyberpunk.f65bdc078c758e159b94.jpg",
+    "static/media/naruto.jpg": "/AnimeSite/static/media/naruto.6ddeeba7620ffeedc615.jpg",
+    "static/media/Code_Geass.jpg": "/AnimeSite/static/media/Code_Geass.e653089f9cfd82ec73ba.jpg",
+    "static/media/One_Piece.jpg": "/AnimeSite/static/media/One_Piece.b6335c4f9dcb540264b4.jpg",
+    "static/media/Bleach.jpg": "/AnimeSite/static/media/Bleach.5b4daef3b7153da0a17c.jpg",
+    "static/media/Death_Note.jpg": "/AnimeSite/static/media/Death_Note.1da0eeef6d7cd65f277c.jpg",
     "static/media/logIn.png": "/AnimeSite/static/media/logIn.bbd33db2aac937eb8262.png",
     "static/media/search.png": "/AnimeSite/static/media/search.e53209d68b41a4a5a0e9.png",
     "static/media/settings.png": "/AnimeSite/static/media/settings.64053a77547db23956ea.png",
     "index.html": "/AnimeSite/index.html",
-    "main.118ea883.css.map": "/AnimeSite/static/css/main.118ea883.css.map",
-    "main.af6fcd63.js.map": "/AnimeSite/static/js/main.af6fcd63.js.map",
+    "main.d434faef.css.map": "/AnimeSite/static/css/main.d434faef.css.map",
+    "main.dd4e6a9e.js.map": "/AnimeSite/static/js/main.dd4e6a9e.js.map",
+    "633.0d54e444.chunk.js.map": "/AnimeSite/static/js/633.0d54e444.chunk.js.map",
     "453.ed3810f9.chunk.js.map": "/AnimeSite/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.118ea883.css",
-    "static/js/main.af6fcd63.js"
+    "static/css/main.d434faef.css",
+    "static/js/main.dd4e6a9e.js"
   ]
 }
