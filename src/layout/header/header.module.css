@@ -1,0 +1,150 @@
+body {
+	margin: 0 auto;
+	padding: 0;
+	background-color: #000;
+	font-family: 'Nerko One', cursive;
+	font-weight: 400;
+}
+
+section {
+	width: 100%;
+	height: 80vh;
+	background: #000;
+	position: relative;
+	overflow: hidden;
+	display: flex;
+	justify-content: center;
+	margin: 0;
+	padding: 0;
+}
+header {
+	width: 100%;
+	padding: 20px;
+	background: #ddd;
+}
+
+nav {
+	cursor: pointer;
+}
+
+.headerBoxContainer {
+	display: flex;
+	z-index: 1;
+	color: #fff;
+	font-size: 30px;
+	position: relative;
+	justify-content: space-between;
+}
+
+.headerBoxOne {
+	display: flex;
+	gap: 10px;
+}
+
+.headerBoxOne img {
+	border-radius: 50px;
+	border: 1px solid #fff;
+	box-shadow: 0px 1px 2px rgb(255, 255, 255), 0 0px 020px rgb(255, 255, 255),
+		1px 0px 17.9px rgb(255, 255, 255);
+}
+
+.iconLogIn {
+	width: 44px;
+	height: 44px;
+}
+.iconLogIn:hover {
+	transform: scale(1.1);
+	animation: rotateLogIN 2s infinite linear;
+}
+
+.BoxForU {
+	background: #ba55d3;
+	height: 40px;
+	border-radius: 5px;
+	font-size: 20px;
+	color: #ffffff;
+	box-sizing: border-box;
+	padding: 5px 10px;
+	text-align: center;
+}
+
+.BoxForU:hover {
+	background: #000000;
+}
+
+.BoxLibrary {
+	background: #ba55d3;
+	height: 40px;
+	border-radius: 5px;
+	font-size: 20px;
+	color: #ffffff;
+	box-sizing: border-box;
+	padding: 5px 10px;
+	text-align: center;
+}
+
+.BoxLibrary:hover {
+	background: #000000;
+}
+
+.headerBoxTwo {
+	display: flex;
+	gap: 10px;
+}
+
+.search {
+	width: 40px;
+	height: 40px;
+}
+
+.settings {
+	width: 40px;
+	height: 40px;
+	transition: ease-in;
+	animation: rotate 5s infinite linear;
+}
+
+[id='MyVideo'] {
+	width: 100%;
+	height: 100vh;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	object-fit: cover; /* Масштабирует видео, сохраняя соотношение сторон, и обрезает его для заполнения всего экрана */
+	transform: translate(-50%, -50%);
+	max-width: 100%; /* Гарантирует, что видео не превышает ширину экрана */
+	max-height: 100%; /* Гарантирует, что видео не превышает высоту экрана */
+	object-fit: cover;
+}
+
+.videoContent {
+	padding: auto;
+	font-size: 30px;
+	color: #fff;
+	z-index: 1;
+	position: relative;
+}
+
+@keyframes rotate {
+	0% {
+		transform: rotateZ(0deg); /* Начальное положение */
+	}
+	50% {
+		transform: rotateZ(240deg); /* Конечное положение */
+	}
+	50% {
+		transform: rotateZ(360deg); /* Конечное положение */
+	}
+}
+
+@keyframes rotateLogIN {
+	0% {
+		transform: rotateY(0deg); /* Начальное положение */
+	}
+	50% {
+		transform: rotateY(240deg); /* Конечное положение */
+	}
+	50% {
+		transform: rotateY(360deg); /* Конечное положение */
+	}
+}
