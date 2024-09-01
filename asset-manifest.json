@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/AnimeSite/static/css/main.d434faef.css",
-    "main.js": "/AnimeSite/static/js/main.dd4e6a9e.js",
-    "static/js/633.0d54e444.chunk.js": "/AnimeSite/static/js/633.0d54e444.chunk.js",
+    "main.css": "/AnimeSite/static/css/main.ceb0a105.css",
+    "main.js": "/AnimeSite/static/js/main.c96d2fcc.js",
     "static/js/453.ed3810f9.chunk.js": "/AnimeSite/static/js/453.ed3810f9.chunk.js",
     "static/media/videophone.mp4": "/AnimeSite/static/media/videophone.6b42d1f4431b032ee7bf.mp4",
     "static/media/Fullmetal_Alchemist.jpg": "/AnimeSite/static/media/Fullmetal_Alchemist.d11ea13cbd9d3078eb76.jpg",
@@ -17,13 +16,12 @@
     "static/media/search.png": "/AnimeSite/static/media/search.e53209d68b41a4a5a0e9.png",
     "static/media/settings.png": "/AnimeSite/static/media/settings.64053a77547db23956ea.png",
     "index.html": "/AnimeSite/index.html",
-    "main.d434faef.css.map": "/AnimeSite/static/css/main.d434faef.css.map",
-    "main.dd4e6a9e.js.map": "/AnimeSite/static/js/main.dd4e6a9e.js.map",
-    "633.0d54e444.chunk.js.map": "/AnimeSite/static/js/633.0d54e444.chunk.js.map",
+    "main.ceb0a105.css.map": "/AnimeSite/static/css/main.ceb0a105.css.map",
+    "main.c96d2fcc.js.map": "/AnimeSite/static/js/main.c96d2fcc.js.map",
     "453.ed3810f9.chunk.js.map": "/AnimeSite/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d434faef.css",
-    "static/js/main.dd4e6a9e.js"
+    "static/css/main.ceb0a105.css",
+    "static/js/main.c96d2fcc.js"
   ]
 }
